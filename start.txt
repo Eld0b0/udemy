@@ -1,5 +1,9 @@
 test git  sart demo
 added changes
+<<<<<<< Updated upstream
 change done in github
 jlkj
 klkk;lkl;klkk
+=======
+2nd
+>>>>>>> Stashed changes
